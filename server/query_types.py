@@ -1,0 +1,1 @@
+typeList = ["random", "beauty", "gaming", "music"]
